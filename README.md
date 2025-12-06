@@ -1,2 +1,2 @@
 # advent-of-code
-Repository for Advent of Code solutions
+Repository for Advent of Code solutions.
